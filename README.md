@@ -1,6 +1,6 @@
 Name des Projekts:	Unit Testing & Logging mit Logistische Regression
 
-Link zum MyBinder: 	[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HuseyinBgn/UnitTestAndLogging/HEAD)
+Link zum MyBinder: 	[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HuseyinBgn/UnitTestingAndLogging/HEAD)
 
 Doku:	
 
